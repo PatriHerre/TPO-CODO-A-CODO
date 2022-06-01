@@ -24,6 +24,6 @@ function validarFormulario(evento) {
     alert('No has escrito el Mail');
     return;  
   }
-  
-  this.submit();  
+  alert('Muchas Gracias');
+  this.submit();    
 }
